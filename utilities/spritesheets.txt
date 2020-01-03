@@ -1,0 +1,2 @@
+Insert the path to your spritesheets here to be converted to face compatible images:
+App/img/characters/$CHAR_Amelia_Anchor%(8).png
